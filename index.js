@@ -4,6 +4,7 @@ const tareas = [{
         nombre: "Adam Smith",
         fecha: "18/04/2024",
         desc: "Procesos Administrativos",
+        docente: "Ingrid Schneider",
         tarea: `<div  width: 100%; height: 0;
     padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
     border-radius: 8px; will-change: transform;">
@@ -21,6 +22,7 @@ const tareas = [{
         nombre: "Diagrama Procesos Administrativos",
         fecha: "23/04/2024",
         desc: "Procesos Administrativos",
+        docente: "Ingrid Schneider",
         tarea: `<div width: 20%;
         padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
         border-radius: 8px; will-change: transform;">
@@ -36,6 +38,7 @@ const tareas = [{
         nombre: "Autoritarismo",
         fecha: "23/04/24",
         desc: "Educación Ciudadana",
+        docente: "Esteban Contreras",
         tarea: `<div width: 20%; height: 0;
       padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
       border-radius: 8px; will-change: transform;">
@@ -52,6 +55,7 @@ const tareas = [{
         nombre: "Libro de compras",
         fecha: "24/04/2024",
         desc: "Utilización de información contable",
+        docente: "Ignacio Ramos",
         tarea: `<div  width: 20%; height: 0; 
     padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); 
     border-radius: 8px; will-change: transform;">
@@ -70,6 +74,7 @@ const tareas = [{
         nombre: "Sociedad en comandita simple",
         fecha: "24/04/2024",
         desc: "Gestión comercial y tributaria",
+        docente: "Ignacio Ramos",
         tarea: `<div width: 20%; height: 0;
         padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
         border-radius: 8px; will-change: transform;">
@@ -85,6 +90,7 @@ const tareas = [{
         nombre: "JavaScript",
         fecha: "30/04/24",
         desc: "Utilización de informacion contable",
+        docente: "Ignacio Ramos",
         tarea: `<div width: 20%;
 box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
 border-radius: 8px; will-change: transform;">
@@ -100,7 +106,7 @@ border-radius: 8px; will-change: transform;">
 ];
 
 tareas.forEach((prod) => {
-    const { id, nombre, fecha, desc, tarea } = prod;
+    const { id, nombre, fecha, desc, tarea, docente } = prod;
     if (contenedor) {
         contenedor.innerHTML += `<div class contenido>
         <div class="card mt-3 item">
@@ -116,6 +122,7 @@ tareas.forEach((prod) => {
         <h3 class="card-title">${nombre}</h3>
         <h4 class="card-text">Fecha: ${fecha}</h4>
         <h4 class="card-text">${desc}</h4>
+        <h4 class="card-text">${docente}</h4>
       </div>
     </div>
     </div>
