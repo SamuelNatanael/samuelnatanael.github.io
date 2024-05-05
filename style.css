@@ -1,7 +1,7 @@
         @media (max-width:700px) {
               header  .logo {
-width: 35%;
-                        height: 35%;
+width: 50%;
+                        height: 50%;
                 }
             header {
                 flex-direction: column;
