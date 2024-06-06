@@ -100,7 +100,19 @@ border-radius: 8px; will-change: transform;">
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDhm2_AOE&#x2F;w1257BjVxjZaqkWU7TUcWg&#x2F;view?utm_content=DAGDhm2_AOE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
     },
-
+  {
+        id: 7,
+        nombre: "Sistema Judicial",
+        fecha: "11/06/24",
+        desc: "Educación Ciudadana",
+        docente: "Esteban Contreras",
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
+  <iframe
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGHM0QbqQA&#x2F;Lj4De3jRwjXTOEt7T7QeIA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGHM0QbqQA&#x2F;Lj4De3jRwjXTOEt7T7QeIA&#x2F;view?utm_content=DAGHM0QbqQA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
+    },
 
 
 ];
