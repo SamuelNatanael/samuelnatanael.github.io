@@ -101,7 +101,7 @@ border-radius: 8px; will-change: transform;">
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGDhm2_AOE&#x2F;w1257BjVxjZaqkWU7TUcWg&#x2F;view?utm_content=DAGDhm2_AOE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
     },
 
-/*
+
 {
         id: 7,
         nombre: "Microsoft Office (Microsoft Word)",
@@ -115,7 +115,7 @@ border-radius: 8px; will-change: transform;">
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGHfRY6qd4&#x2F;r9UWObf6LcXIlcRRI9zEFA&#x2F;view?utm_content=DAGHfRY6qd4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
-    }, */
+    }, 
                 
   {
         id: 8,
