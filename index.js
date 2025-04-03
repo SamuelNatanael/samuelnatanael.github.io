@@ -132,7 +132,7 @@ border-radius: 8px; will-change: transform;">
         desc: "Desarrollo y bienestar del personal",
         docente: "Patricia Avendaño",
         tarea: `<div
-  <iframe    src="https://www.canva.com/design/DAGjaeWKR1E/9iza_w208NYvrFqov2LDHA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  <iframe src="https://www.canva.com/design/DAGjaeWKR1E/9iza_w208NYvrFqov2LDHA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjaeWKR1E&#x2F;9iza_w208NYvrFqov2LDHA&#x2F;view?utm_content=DAGjaeWKR1E&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`, 
