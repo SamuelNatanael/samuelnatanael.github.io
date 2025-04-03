@@ -101,7 +101,6 @@ width: 50%;
         
         .item {
             display: flex !important;
-            justify-content: center !important;
             align-items: center !important;
             flex-wrap: wrap !important;
             gap: 5px !important;
