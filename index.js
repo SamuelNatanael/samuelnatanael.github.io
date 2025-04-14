@@ -157,7 +157,9 @@ id: 11,
         docente: "Katherine Urzúa",
         tarea: `<div> <iframe> https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 
-</iframe> "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F; DAGkobAA9IM&#x2F; MYQM-GZvQ9V1wlGXrhQVmg&#x2F;view?content-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`
+</iframe>
+</div>
+<a> "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F; DAGkobAA9IM&#x2F; MYQM-GZvQ9V1wlGXrhQVmg&#x2F;view?content-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`
 
 }, 
 
