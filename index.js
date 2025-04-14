@@ -155,7 +155,7 @@ id: 11,
         fecha: "14/04/25",
         desc: "Ciencias para la ciudadania",
         docente: "Katherine Urzúa",
-        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;"> <iframe> https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;"> <iframe src=" https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 
 </iframe>
 </div>
