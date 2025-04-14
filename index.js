@@ -155,11 +155,11 @@ id: 11,
         fecha: "14/04/25",
         desc: "Ciencias para la ciudadania",
         docente: "Katherine Urzúa",
-        tarea: `<div> <iframe> https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;"> <iframe> https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 
 </iframe>
 </div>
-<a> "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F; DAGkobAA9IM&#x2F; MYQM-GZvQ9V1wlGXrhQVmg&#x2F;view?content-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`
+<a "https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F; DAGkobAA9IM&#x2F; MYQM-GZvQ9V1wlGXrhQVmg&#x2F;view?content-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`
 
 }, 
 
