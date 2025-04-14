@@ -149,6 +149,16 @@ border-radius: 8px; will-change: transform;">
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjmo1uCsk&#x2F;bJSZHZcu-VrnVHyonqhFdA&#x2F;view?utm_content=DAGjmo1uCsk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`, 
                 },
 
+{
+id: 11,
+        nombre: "Consumo de cigarro",
+        fecha: "14/04/25",
+        desc: "Ciencias para la ciudadania",
+        docente: "Katherine Urzúa",
+        tarea: ``
+
+}, 
+
 ];
 
 tareas.forEach((prod) => {
