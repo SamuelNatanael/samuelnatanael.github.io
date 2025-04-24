@@ -159,6 +159,7 @@ id: 11,
 </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGkobAA9IM&#x2F;MYQM-GZvQ9V1wlGXrhQVmg&#x2F;viewcontent-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`,
+},
 
                 {
                         id: 12,
