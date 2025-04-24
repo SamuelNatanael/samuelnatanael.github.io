@@ -167,7 +167,7 @@ id: 11,
         fecha: "24/04/25",
         desc: "Desarrollo Y Bienestar Del Personal",
         docente: "Patricia Avendaño",
-        tarea: `<div>
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
   <iframe src="https://www.canva.com/design/DAGlk35J4LQ/ElkaMjpmHrwZv1xoD_n_cQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
