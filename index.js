@@ -125,54 +125,62 @@ border-radius: 8px; will-change: transform;">
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGHM0QbqQA&#x2F;Lj4De3jRwjXTOEt7T7QeIA&#x2F;view?utm_content=DAGHM0QbqQA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
     },
-                {
-                       id: 9,
-        nombre: "Albert Einstein",
-        fecha: "03/04/25",
-        desc: "Desarrollo Y Bienestar Del Personal",
-        docente: "Patricia Avendaño",
-        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
-  <iframe src="https://www.canva.com/design/DAGjaeWKR1E/9iza_w208NYvrFqov2LDHA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjaeWKR1E&#x2F;9iza_w208NYvrFqov2LDHA&#x2F;view?utm_content=DAGjaeWKR1E&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`, 
-                },
-{
-                       id: 10,
-        nombre: "Piramide De Maslow",
-        fecha: "03/04/25",
-        desc: "Desarrollo Y Bienestar Del Personal",
-        docente: "Patricia Avendaño",
-        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;"> <iframe src="https://www.canva.com/design/DAGjmo1uCsk/bJSZHZcu-VrnVHyonqhFdA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjmo1uCsk&#x2F;bJSZHZcu-VrnVHyonqhFdA&#x2F;view?utm_content=DAGjmo1uCsk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`, 
-                },
-
-{
-id: 11,
-        nombre: "Consumo de cigarro",
-        fecha: "14/04/25",
-        desc: "Ciencias para la ciudadania",
-        docente: "Katherine Urzúa",
-        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;"> <iframe src="https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGkobAA9IM&#x2F;MYQM-GZvQ9V1wlGXrhQVmg&#x2F;viewcontent-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`,
+               {
+  id: 9,
+  nombre: "Albert Einstein",
+  fecha: "03/04/25",
+  desc: "Desarrollo Y Bienestar Del Personal",
+  docente: "Patricia Avendaño",
+  tarea: `<div style="box-shadow: 0 2px 8px rgba(63,69,81,0.16); will-change: transform;">
+    <iframe style="width: 100%; height: 480px; border: none;"
+      src="https://www.canva.com/design/DAGjaeWKR1E/9iza_w208NYvrFqov2LDHA/view?embed" allowfullscreen>
+    </iframe>
+  </div>
+  <a href="https://www.canva.com/design/DAGjaeWKR1E/9iza_w208NYvrFqov2LDHA/view" target="_blank" rel="noopener">Abrir en canva</a>`
 },
 
-                {
-                        id: 12,
-        nombre: "Chris Gardner",
-        fecha: "24/04/25",
-        desc: "Desarrollo Y Bienestar Del Personal",
-        docente: "Patricia Avendaño",
-        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
-  <iframe src="https://www.canva.com/design/DAGlk35J4LQ/ElkaMjpmHrwZv1xoD_n_cQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGlk35J4LQ&#x2F;ElkaMjpmHrwZv1xoD_n_cQ&#x2F;view?utm_content=DAGlk35J4LQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
-                },
+{
+  id: 10,
+  nombre: "Piramide De Maslow",
+  fecha: "03/04/25",
+  desc: "Desarrollo Y Bienestar Del Personal",
+  docente: "Patricia Avendaño",
+  tarea: `<div style="box-shadow: 0 2px 8px rgba(63,69,81,0.16); will-change: transform;">
+    <iframe style="width: 100%; height: 480px; border: none;"
+      src="https://www.canva.com/design/DAGjmo1uCsk/bJSZHZcu-VrnVHyonqhFdA/view?embed" allowfullscreen>
+    </iframe>
+  </div>
+  <a href="https://www.canva.com/design/DAGjmo1uCsk/bJSZHZcu-VrnVHyonqhFdA/view" target="_blank" rel="noopener">Abrir en canva</a>`
+},
+
+{
+  id: 11,
+  nombre: "Consumo de cigarro",
+  fecha: "14/04/25",
+  desc: "Ciencias para la ciudadania",
+  docente: "Katherine Urzúa",
+  tarea: `<div style="box-shadow: 0 2px 8px rgba(63,69,81,0.16); will-change: transform;">
+    <iframe style="width: 100%; height: 480px; border: none;"
+      src="https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen>
+    </iframe>
+  </div>
+  <a href="https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view" target="_blank" rel="noopener">Abrir en canva</a>`
+},
+
+{
+  id: 12,
+  nombre: "Chris Gardner",
+  fecha: "24/04/25",
+  desc: "Desarrollo Y Bienestar Del Personal",
+  docente: "Patricia Avendaño",
+  tarea: `<div style="box-shadow: 0 2px 8px rgba(63,69,81,0.16); will-change: transform;">
+    <iframe style="width: 100%; height: 480px; border: none;"
+      src="https://www.canva.com/design/DAGlk35J4LQ/ElkaMjpmHrwZv1xoD_n_cQ/view?embed" allowfullscreen>
+    </iframe>
+  </div>
+  <a href="https://www.canva.com/design/DAGlk35J4LQ/ElkaMjpmHrwZv1xoD_n_cQ/view" target="_blank" rel="noopener">Abrir en canva</a>`
+},
+
 }, 
 
 ];
