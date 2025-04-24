@@ -158,7 +158,7 @@ id: 11,
         tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;"> <iframe src="https://www.canva.com/design/DAGkobAA9IM/MYQM-GZvQ9V1wlGXrhQVmg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGkobAA9IM&#x2F;MYQM-GZvQ9V1wlGXrhQVmg&#x2F;viewcontent-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGkobAA9IM&#x2F;MYQM-GZvQ9V1wlGXrhQVmg&#x2F;viewcontent-DAGkobAA9IM&amp;utm_campaign-designshare&amp;utm_medium=embeds&amp;utm_source=link" target="blank" rel="noopener">Abrir en canva</a>`,
 
                 {
                         id: 12,
@@ -170,8 +170,8 @@ id: 11,
   <iframe src="https://www.canva.com/design/DAGlk35J4LQ/ElkaMjpmHrwZv1xoD_n_cQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGlk35J4LQ&#x2F;ElkaMjpmHrwZv1xoD_n_cQ&#x2F;view?utm_content=DAGlk35J4LQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`
-                }
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGlk35J4LQ&#x2F;ElkaMjpmHrwZv1xoD_n_cQ&#x2F;view?utm_content=DAGlk35J4LQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`,
+                },
 }, 
 
 ];
