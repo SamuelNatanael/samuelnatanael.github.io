@@ -181,7 +181,7 @@ id: 13,
         fecha: "30/05/25",
         desc: "Emprendimiento Y Empleabilidad",
         docente: "Patricia Avendaño",
-        tarea: `<div>
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
   <iframe
     src="https://www.canva.com/design/DAGo8UW6xf8/SbtAc65aqWsQruQfU-bNjg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
@@ -190,6 +190,19 @@ id: 13,
 
 }, 
 
+                {
+                        id: 14,
+        nombre: "Agentes Infecciosos",
+        fecha: "02/06/25",
+        desc: "Ciencias para la ciudadania",
+        docente: "Carolina Ramirez",
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
+  <iframe src="https://www.canva.com/design/DAGpOPm6aPg/LDoZXcQvrDuMTAZYZIQNCQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGpOPm6aPg&#x2F;LDoZXcQvrDuMTAZYZIQNCQ&#x2F;view?utm_content=DAGpOPm6aPg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Agentes infecciosos</a>`
+
+        }
 
 
 ];
