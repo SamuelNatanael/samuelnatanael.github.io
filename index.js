@@ -186,7 +186,7 @@ id: 13,
     src="https://www.canva.com/design/DAGo8UW6xf8/SbtAc65aqWsQruQfU-bNjg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGo8UW6xf8&#x2F;SbtAc65aqWsQruQfU-bNjg&#x2F;view?utm_content=DAGo8UW6xf8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">tips de entrevista samuel orellana 4e_011853.docx</a>"`
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGo8UW6xf8&#x2F;SbtAc65aqWsQruQfU-bNjg&#x2F;view?utm_content=DAGo8UW6xf8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>"`
 
 }, 
 
@@ -200,7 +200,7 @@ id: 13,
   <iframe src="https://www.canva.com/design/DAGpOPm6aPg/LDoZXcQvrDuMTAZYZIQNCQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGpOPm6aPg&#x2F;LDoZXcQvrDuMTAZYZIQNCQ&#x2F;view?utm_content=DAGpOPm6aPg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Agentes infecciosos</a>`
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGpOPm6aPg&#x2F;LDoZXcQvrDuMTAZYZIQNCQ&#x2F;view?utm_content=DAGpOPm6aPg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`
 
         }
 
