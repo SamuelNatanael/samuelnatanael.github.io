@@ -209,12 +209,12 @@ id: 13,
         fecha: "26/08/25",
         desc: "Ciencias para la ciudadania",
         docente: "Katherine Urzúa",
-        tarea: `<div>
+        tarea: `<div box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); will-change: transform;">
   <iframe
     src="https://www.canva.com/design/DAGvTowZpTA/fOzV-fte-B16UJ7MD0a7tQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGvTowZpTA&#x2F;fOzV-fte-B16UJ7MD0a7tQ&#x2F;view?utm_content=DAGvTowZpTA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir con canva</a>`
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGvTowZpTA&#x2F;fOzV-fte-B16UJ7MD0a7tQ&#x2F;view?utm_content=DAGvTowZpTA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Abrir en canva</a>`
                   }
 
 
