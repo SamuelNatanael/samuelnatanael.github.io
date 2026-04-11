@@ -29,3 +29,9 @@ background-color: red;
 * {
 background-color: black;
 }
+
+a {
+    text-decoration: none;
+color: white;
+}
+
