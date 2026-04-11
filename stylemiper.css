@@ -9,6 +9,22 @@ header {
             border: 5px solid white;
             width: 100%;
         }
+
+spann {
+            display: block;
+            white-space: nowrap;
+            border-right: 4px solid;
+            width: 39ch;
+            animation: typing 2s steps(12), blink .5s infinite step-end alternate;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            text-align: center;
+            width: 100%;
+        }
+
 * {
 background-color: black;
 }
