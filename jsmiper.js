@@ -5,7 +5,7 @@ const tareas = [{
         fecha: "2026",
         desc: "Practicas seguras en las operaciones logísticas",
         docente: "Magali Galleguillos",
-        tarea: `<iframe>
+        tarea: `<img id="miper" src="miper.png><iframe>
        src="
      </iframe>
    `,
