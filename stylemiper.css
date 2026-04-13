@@ -4,7 +4,7 @@ header {
             justify-content: space-between;
             align-items: center;
             padding: 10px;
-            background-color: red;
+            background-color: white;
             top: 0px;
 z-index: 9999;
         }
@@ -22,8 +22,8 @@ spann {
             flex-direction: column;
             text-align: center;
             width: 100%;
-color: white;
-background-color: red;
+color: black;
+background-color: white;
         }
 
 body {
