@@ -1,3 +1,4 @@
+alert("Por favor tener paciencia al cargar los archivos en pantalla completa");
 const tareas = [
     {
         id: 1,
