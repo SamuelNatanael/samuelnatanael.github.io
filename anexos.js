@@ -25,6 +25,11 @@ const tareas = [
         nombre: "Procedimiento conteo fisico",
         url: "https://docs.google.com/document/d/e/2PACX-1vQ8OrmXx1mOw-KPv0Or1ZButHaiPrxkvoFqnlJwSyTX7nMrjrtixG8pA9uswarksCKgefOHkLgU7OaB/pub?embedded=true"
     },
+{
+        id: 6,
+        nombre: "Diagrama de flujo o BPMN del proceso logístico analizado",
+        url: "https://docs.google.com/document/d/e/2PACX-1vRgrV4T9BsMG6gVPanX-C6pyZ2FgU9LnVimm6tYKM6xcVmOoTQYyprMsZP4bGmwBfZz0fHNyWu2H9ec/pub"
+    },
 ];
 
 const contenedor = document.getElementById('contenedor');
