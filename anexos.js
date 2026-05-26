@@ -35,6 +35,16 @@ const tareas = [
         nombre: "Diagrama de flujo",
         url: "./diagrama.png"
     },
+    {
+        id: 8,
+        nombre: "Diagrama de flujoo",
+        url: "/diagrama.png"
+    },
+    {
+        id: 9,
+        nombre: "Diagrama de flujo",
+        tarea: "./diagrama.png"
+    },
 ];
 
 const contenedor = document.getElementById('contenedor');
