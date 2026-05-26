@@ -32,8 +32,8 @@ const tareas = [
     },
     {
         id: 7,
-        nombre: "Diagrama de flujo",
-        tarea: `<img src="diagrama.png">`
+        nombre: "Diagrama de flujo HD",
+        url: "https://samuelnatanael.github.io/bpmn"
     },
 ];
 
