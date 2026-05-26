@@ -33,7 +33,7 @@ const tareas = [
     {
         id: 7,
         nombre: "Diagrama de flujo",
-        url: `<img src"diagrama.png">`
+        tarea: `<img src"diagrama.png">`
     },
 ];
 
