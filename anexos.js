@@ -30,6 +30,11 @@ const tareas = [
         nombre: "Diagrama de flujo o BPMN del proceso logístico analizado",
         url: "https://docs.google.com/document/d/e/2PACX-1vRgrV4T9BsMG6gVPanX-C6pyZ2FgU9LnVimm6tYKM6xcVmOoTQYyprMsZP4bGmwBfZz0fHNyWu2H9ec/pub"
     },
+    {
+        id: 7,
+        nombre: "Diagrama de flujo",
+        url: "./diagrama.png"
+    },
 ];
 
 const contenedor = document.getElementById('contenedor');
