@@ -7,6 +7,16 @@
                         top: 20%;
                         transform: translate(-50%, -60%);
                 }
+                video {
+  width: 240px !important;           
+  height: auto;          
+  aspect-ratio: 16 / 9;  
+  border: 5px solid white;
+  border-radius: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+}
             header {
                         width: 50%;
                         height: 30%;
