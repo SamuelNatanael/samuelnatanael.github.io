@@ -24,7 +24,7 @@ min-height: 40px;
         
         header {
             display: flex;
-            min-height: 70px;
+            min-height: 50px;
             justify-content: space-between;
             align-items: center;
             padding: 10px;
