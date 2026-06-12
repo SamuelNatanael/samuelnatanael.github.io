@@ -1,27 +1,40 @@
         @media (max-width:700px) {
-              header  .logo {
-width: 50%;
-                        height: 50%;
+              .logo {
+                        width: 35%;
+                        height: 35%;
+                        position: absolute;
+                        left: 20%;
+                        top: 20%;
+                        transform: translate(-50%, -60%);
                 }
             header {
-display: flex;
-  flex-direction: column; 
-  align-items: center;    
-  text-align: center;
-  padding: 20px;
-min-height: 20px;
-                border: solid 1px white !important;
+                        width: 50%;
+                        height: 50%;
+                        display: flex;
+                        flex-direction: column; 
+                        align-items: center;    
+                        text-align: center;
+                        padding: 20px;
+                        max-height: 30%;
+                        border: solid 1px white !important;
             }
             body {
                 margin: 0;
                 padding-right: 0px !important;
             }
             html {
-                margin: 0;
-                padding-right: 0px !important;
+                margin: 5;
+                /* padding-right: 0px !important; */
+            }
+            h1 {
+                font-size: 1.5rem;
             }
         }
         
+        html {
+                margin: 5;
+                /* padding-right: 0px !important; */
+            }
         header {
             display: flex;
             min-height: 50px;
@@ -32,7 +45,8 @@ min-height: 20px;
             top: 0px;
             border: 5px solid white;
             width: 100%;
-border-radius: 15px;
+            border-radius: 15px;
+            gap: 10px;
         }
         
         spann {
@@ -81,9 +95,11 @@ border-radius: 15px;
         }
 
 video {
-  width: 100%;           
+  width: auto;           
   height: auto;          
   aspect-ratio: 16 / 9;  
+  border: 5px solid white;
+  border-radius: 15px;
 }
 
         
@@ -171,4 +187,8 @@ video {
             100% {
                 transform: rotate(360deg);
             }
+        }
+
+        h1 {
+            font-weight: 900;
         }
