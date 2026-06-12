@@ -95,7 +95,7 @@
         }
 
 video {
-  width: 240;           
+  width: 240px;           
   height: auto;          
   aspect-ratio: 16 / 9;  
   border: 5px solid white;
@@ -103,7 +103,7 @@ video {
         display: flex;
         justify-content: center;
         align-items: center; 
-        min-height: 50vhh;
+        min-height: 50vh;
 }
 
         
