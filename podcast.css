@@ -100,6 +100,10 @@ video {
   aspect-ratio: 16 / 9;  
   border: 5px solid white;
   border-radius: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+        min-height: 90vh;
 }
 
         
