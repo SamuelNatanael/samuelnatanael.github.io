@@ -4,6 +4,7 @@ width: 50%;
                         height: 50%;
                 }
             header {
+display: flex;
                 flex-direction: column;
                 border: solid 1px white !important;
             }
@@ -27,7 +28,7 @@ width: 50%;
             top: 0px;
             border: 5px solid white;
             width: 100%;
-flex-direction: column;
+border-radius: 15px;
         }
         
         spann {
