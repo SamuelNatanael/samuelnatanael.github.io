@@ -8,8 +8,8 @@
                         transform: translate(-50%, -60%);
                 }
                 video {
-  width: 240px !important;           
-  height: auto;          
+  width: auto;           
+  height: 40vh;          
   aspect-ratio: 16 / 9;  
   border: 5px solid white;
   border-radius: 15px;
@@ -19,7 +19,7 @@
 }
             header {
                         width: 50%;
-                        height: 30%;
+                        height: 20%;
                         display: flex;
                         flex-direction: column; 
                         align-items: center;    
@@ -105,8 +105,8 @@
         }
 
 video {
-  width: 240px;           
-  height: auto;          
+  width: auto;           
+  height: 60vh;          
   aspect-ratio: 16 / 9;  
   border: 5px solid white;
   border-radius: 15px;
