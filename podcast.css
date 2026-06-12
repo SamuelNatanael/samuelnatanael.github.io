@@ -79,6 +79,13 @@ border-radius: 15px;
             /* flex-direction: column; */
             background: #23242a;
         }
+
+video {
+  width: 100%;           
+  height: auto;          
+  aspect-ratio: 16 / 9;  
+}
+
         
         h3,
         h4 {
