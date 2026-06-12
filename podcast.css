@@ -23,7 +23,7 @@
                 padding-right: 0px !important;
             }
             html {
-                margin: 5;
+                margin: 0;
                 /* padding-right: 0px !important; */
             }
             h1 {
@@ -32,7 +32,7 @@
         }
         
         html {
-                margin: 5;
+                margin: 0;
                 /* padding-right: 0px !important; */
             }
         header {
@@ -95,7 +95,7 @@
         }
 
 video {
-  width: auto;           
+  width: 240;           
   height: auto;          
   aspect-ratio: 16 / 9;  
   border: 5px solid white;
@@ -103,7 +103,7 @@ video {
         display: flex;
         justify-content: center;
         align-items: center; 
-        min-height: 90vh;
+        min-height: 50vhh;
 }
 
         
