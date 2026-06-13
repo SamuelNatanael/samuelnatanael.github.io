@@ -8,6 +8,8 @@
                         transform: translate(-50%, -60%);
                 }
                 video {
+                        display: block;
+                        margin: 0 auto;
   width: auto;                     
   border: 5px solid white;
   border-radius: 15px;
@@ -103,6 +105,8 @@
         }
 
 video {
+         display: block;
+                        margin: 0 auto;
   width: auto;           
   height: 60vh;          
   border: 5px solid white;
