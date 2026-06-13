@@ -28,10 +28,10 @@
                         max-height: 30%;
                         border: solid 1px white !important;
             }
-            body {
+            /* body {
                 margin: 0;
-                padding-right: 0px !important;
-            }
+                padding-right: 0px;
+            } */
             html {
                 margin: 0;
                 /* padding-right: 0px !important; */
@@ -97,10 +97,10 @@
         body {
             display: flex;
             flex-wrap: wrap !important;
-            /* justify-content: center;
-        align-items: center; */
+            justify-content: center;
+        align-items: center;
             min-height: 100vh;
-            flex-direction: column;
+            flex-direction: column !important;
             background: #23242a;
         }
 
