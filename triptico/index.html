@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#eaf5f5">
+    <meta name="description" content="Una colección de trípticos inspirados en el mar.">
+    <title>Tríptico marítimo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-shell">
+        <header class="site-header glass-panel">
+            <a class="brand" href="#inicio" aria-label="Tríptico marítimo, inicio">
+                <span class="brand-mark" aria-hidden="true">
+                    <svg viewBox="0 0 48 48" fill="none">
+                        <path d="M7 29c5.2 0 5.2-5 10.4-5s5.2 5 10.4 5 5.2-5 10.4-5" />
+                        <path d="M7 36c5.2 0 5.2-5 10.4-5s5.2 5 10.4 5 5.2-5 10.4-5" />
+                        <path d="M24 7v13m0-13 10 12H14L24 7Z" />
+                    </svg>
+                </span>
+                <span class="brand-copy">
+                    <strong>Tríptico</strong>
+                    <span>marítimo</span>
+                </span>
+            </a>
+
+            <nav class="main-nav" aria-label="Navegación principal">
+                <a href="#coleccion">La colección</a>
+                <a href="#sobre">Sobre el proyecto</a>
+            </nav>
+
+            <button class="theme-toggle" type="button" aria-label="Cambiar a modo oscuro" title="Cambiar tema">
+                <svg class="sun-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="12" cy="12" r="4" />
+                    <path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42" />
+                </svg>
+                <svg class="moon-icon" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M20.2 15.1A8.5 8.5 0 0 1 8.9 3.8 8.6 8.6 0 1 0 20.2 15.1Z" />
+                </svg>
+            </button>
+        </header>
+
+        <main id="inicio">
+            <section class="hero" aria-labelledby="hero-title">
+                <div class="hero-copy">
+                    <p class="eyebrow"><span></span> Historias que vienen del mar</p>
+                    <h1 id="hero-title">Un mar de ideas,<br><em>en tres pliegues.</em></h1>
+                    <p class="hero-description">Una pequeña colección de trípticos para explorar la logística en el mundo marino.</p>
+                    <a class="primary-link" href="#coleccion">Descubrir la colección <span aria-hidden="true">↘</span></a>
+                </div>
+                <div class="hero-art" aria-hidden="true">
+                    <span class="sun-glow"></span>
+                    <span class="hero-sun"></span>
+                    <svg class="hero-wave" viewBox="0 0 620 360" preserveAspectRatio="none">
+                        <path d="M0 145c83-30 129-34 210-8s116 44 202 9 133-44 208-18v232H0V145Z" />
+                        <path d="M0 205c81-33 146-28 218-1s122 41 202 7 132-40 200-13v162H0V205Z" />
+                        <path d="M0 265c94-27 150-19 222 4s123 35 198 7 128-30 200-7v91H0v-95Z" />
+                    </svg>
+                    <span class="hero-caption">Costa tranquila · 36° 43′ N</span>
+                </div>
+            </section>
+
+            <section class="collection-section" id="coleccion" aria-labelledby="collection-title">
+                <div class="section-heading">
+                    <div>
+                        <p class="eyebrow"><span></span> Pequeñas ventanas al océano</p>
+                        <h2 id="collection-title">La colección</h2>
+                    </div>
+                    <p class="section-note">Tres historias, un mismo horizonte.</p>
+                </div>
+
+                <div class="triptych-grid">
+                    <article class="triptych-card">
+                        <button class="image-open" type="button" aria-label="Ver el tríptico Habitantes del azul en pantalla completa">
+                            <img src="/Imagen1.png" alt="Primer tríptico marítimo: habitantes del azul">
+                            <span class="image-open-label"><span aria-hidden="true">⤢</span> Ver y ampliar</span>
+                        </button>
+                        <div class="card-copy">
+                            <div><p class="card-category">01 · Texto</p><h3>Texto</h3></div>
+                            <span class="card-arrow" aria-hidden="true">↗</span>
+                        </div>
+                    </article>
+
+                    <article class="triptych-card">
+                        <button class="image-open" type="button" aria-label="Ver el tríptico El jardín sumergido en pantalla completa">
+                            <img src="/Imagen2.png" alt="Segundo tríptico marítimo: el jardín sumergido">
+                            <span class="image-open-label"><span aria-hidden="true">⤢</span> Ver y ampliar</span>
+                        </button>
+                        <div class="card-copy">
+                            <div><p class="card-category">02 · Texto</p><h3>Texto</h3></div>
+                            <span class="card-arrow" aria-hidden="true">↗</span>
+                        </div>
+                    </article>
+
+                    <article class="triptych-card">
+                        <button class="image-open" type="button" aria-label="Ver el tríptico Un océano por cuidar en pantalla completa">
+                            <img src="/Imagen3.png" alt="Tercer tríptico marítimo: un océano por cuidar">
+                            <span class="image-open-label"><span aria-hidden="true">⤢</span> Ver y ampliar</span>
+                        </button>
+                        <div class="card-copy">
+                            <div><p class="card-category">03 · Texto</p><h3>Texto</h3></div>
+                            <span class="card-arrow" aria-hidden="true">↗</span>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <section class="about-strip glass-panel" id="sobre">
+                <span class="about-icon" aria-hidden="true">〰</span>
+                <p>El océano guarda historias extraordinarias. <strong>Este espacio es una invitación a descubrirlas.</strong></p>
+                <span class="about-coordinate">OCÉANO · PLANETA TIERRA</span>
+            </section>
+        </main>
+
+        <footer class="site-footer"><span>Tríptico marítimo</span><span>Hecho con calma, como las olas.</span></footer>
+    </div>
+
+    <dialog class="image-viewer" aria-label="Visor de tríptico ampliado">
+        <div class="viewer-toolbar">
+            <span class="viewer-title">Vista ampliada</span>
+            <div class="viewer-controls" aria-label="Controles de zoom">
+                <button class="zoom-out" type="button" aria-label="Alejar">−</button>
+                <span class="zoom-level" aria-live="polite">100%</span>
+                <button class="zoom-in" type="button" aria-label="Acercar">+</button>
+                <button class="zoom-reset" type="button">Ajustar</button>
+            </div>
+            <button class="viewer-close" type="button" aria-label="Cerrar imagen">×</button>
+        </div>
+        <div class="viewer-stage">
+            <img class="viewer-image" alt="">
+        </div>
+    </dialog>
+
+    <script>
+        const themeToggle = document.querySelector('.theme-toggle');
+        const themeColor = document.querySelector('meta[name="theme-color"]');
+        const savedTheme = localStorage.getItem('triptico-theme');
+
+        if (savedTheme === 'dark') {
+            document.documentElement.dataset.theme = 'dark';
+            themeColor.content = '#101b25';
+            themeToggle.setAttribute('aria-label', 'Cambiar a modo claro');
+        }
+
+        themeToggle.addEventListener('click', () => {
+            const isDark = document.documentElement.dataset.theme === 'dark';
+            const nextTheme = isDark ? 'light' : 'dark';
+            document.documentElement.dataset.theme = nextTheme;
+            themeColor.content = nextTheme === 'dark' ? '#101b25' : '#eaf5f5';
+            themeToggle.setAttribute('aria-label', nextTheme === 'dark' ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro');
+            localStorage.setItem('triptico-theme', nextTheme);
+        });
+
+        const imageViewer = document.querySelector('.image-viewer');
+        const viewerImage = document.querySelector('.viewer-image');
+        const zoomLevel = document.querySelector('.zoom-level');
+        let currentZoom = 1;
+
+        function setZoom(zoom) {
+            currentZoom = Math.min(2.5, Math.max(0.5, zoom));
+            viewerImage.style.width = `${currentZoom * 100}%`;
+            zoomLevel.textContent = `${Math.round(currentZoom * 100)}%`;
+        }
+
+        document.querySelectorAll('.image-open').forEach((button) => {
+            button.addEventListener('click', () => {
+                const image = button.querySelector('img');
+                viewerImage.src = image.src;
+                viewerImage.alt = image.alt;
+                setZoom(1);
+                imageViewer.showModal();
+            });
+        });
+
+        document.querySelector('.zoom-in').addEventListener('click', () => setZoom(currentZoom + 0.25));
+        document.querySelector('.zoom-out').addEventListener('click', () => setZoom(currentZoom - 0.25));
+        document.querySelector('.zoom-reset').addEventListener('click', () => setZoom(1));
+        document.querySelector('.viewer-close').addEventListener('click', () => imageViewer.close());
+        imageViewer.addEventListener('click', (event) => {
+            if (event.target === imageViewer) imageViewer.close();
+        });
+    </script>
+</body>
+</html>
